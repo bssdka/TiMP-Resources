@@ -1,5 +1,5 @@
 """ 
-eTiMP_resources/
+TiMP_resources/
 ├── main.py                  # FastAPI-приложение, маршруты, логика
 ├── modules.json             # Список модулей (название, описание, картинка, путь)
 ├── requirements.txt         # Зависимости Python
